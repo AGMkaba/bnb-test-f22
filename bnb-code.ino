@@ -12,9 +12,9 @@ float val2;
 float bal2;
 float cal2;
 
-float Kp = 1.3;                                                    //Initial Proportional Gain
-float Ki = 0.51;                                                      //Initial Integral Gain
-float Kd = 0.70;                                                    //Intitial Derivative Gain
+float Kp = 3.5;                                                    //Initial Proportional Gain
+float Ki = 3.5;                                                      //Initial Integral Gain
+float Kd = 4.0;                                                    //Intitial Derivative Gain
 double Setpoint, Input, Output, ServoOutput;
 // the setup routine runs once when you press reset:
 
